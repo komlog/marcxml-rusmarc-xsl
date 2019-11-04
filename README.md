@@ -1,4 +1,1 @@
-rusmarc.xsl
-===========
-
-XSLT for RUSMARC
+# README
